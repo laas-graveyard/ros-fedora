@@ -1,0 +1,14 @@
+libdc1394-dev:
+  fedora: libdc1394-devel
+
+ffmpeg:
+  fedora: ffmpeg-devel
+
+graphicsmagick:
+  fedora: GraphicsMagick-devel
+
+jasper:
+  fedora: jasper-devel
+
+libogg:
+  fedora: libogg-devel
